@@ -1,0 +1,30 @@
+.footer{
+  height: 240px;
+  background: #141A20;
+}
+.footer__content{
+  display: flex;
+  justify-content: space-between;
+}
+.footer__content p{
+  color: white;
+  font-size: 11px;
+  line-height: 19px;
+}
+.footer__content_item{
+  width: 250px;
+  height: 150px;
+  margin: 45px;
+}
+.content_logo{
+  display: grid;
+  grid-template-rows: 1fr 1fr 2fr;
+}
+.icons{
+  display: flex;
+  justify-content: space-between;
+}
+.icons img{
+  width: 40px;
+  height: 40px;
+}

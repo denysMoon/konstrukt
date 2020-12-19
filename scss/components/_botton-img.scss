@@ -1,0 +1,32 @@
+.botton-img{
+  height: 499px;
+  background: url("../img/bg-bottom.png") no-repeat;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.botton-img h2{
+  display: block;
+  width: 350px;
+  height: 72px;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 36px;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+.botton-img button{
+  display: block;
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #00A4E5;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20px;
+}

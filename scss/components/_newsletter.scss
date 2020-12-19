@@ -1,0 +1,38 @@
+.newsletter{
+  height: 100px;
+  background: #171819;
+  display: flex;
+  align-items: center;
+}
+.newsletter h2{
+  font-size: 22px;
+  font-weight: bold;
+  color: white;
+}
+.newsletter__input{
+  display: flex;
+}
+.newsletter__input input{
+  width: 250px;
+  height: 40px;
+}
+.newsletter__input button{
+  width: 150px;
+  height: 40px;
+  color: white;
+  font-weight: bold;
+  font-size: 13px;
+  background-color: #00A4E5;
+}
+.newsletter__box{
+  width: 685px;
+  height: 40px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+//685
+//40

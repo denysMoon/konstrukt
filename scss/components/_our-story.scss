@@ -1,0 +1,37 @@
+.our-story{
+  height: 344px;
+}
+.our-story h2{
+  font-size: 18px;
+  font-weight: bold;
+  text-align: center;
+  padding: 40px;
+  color: #48555B;
+}
+.our-story__grid{
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+}
+.our-story__grid_text{
+  display: grid;
+  grid-gap: 20px;
+  width: 405px;
+  font-size: 13px;
+  margin-bottom: 0;
+  color: #48555B;
+  line-height: 23px;
+}
+.our-story__grid_text_bold{
+  font-size: 20px;
+  font-weight: bold;
+  color: black;
+  line-height: 27px;
+}
+.our-story__grid_text_bold span{
+  color: #16ACE8;
+}
+.our-story__grid_img{
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+  margin-bottom: 0;
+}
